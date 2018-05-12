@@ -1,0 +1,48 @@
+_repo: De-Koran--13-omtrent-de-Godsdienstgebruiken-der-Mahomedanen-enz._19786
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Japikse, Nicolaas
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '8631'
+    url: http://www.gutenberg.org/2009/agents/8631
+  translator:
+    agent_name: Kazimirski Biberstein, Albin de
+    aliases:
+    - Biberstein-Kazimirski, Albert de
+    - Kasimirski
+    birthdate: 1808
+    deathdate: 1887
+    gutenberg_agent_id: '8630'
+    url: http://www.gutenberg.org/2009/agents/8630
+covers:
+- cover_type: archival
+  image_path: 19786-h/images/new-cover.jpg
+creator:
+  editor:
+    agent_name: Keyzer, Salomo
+    birthdate: 1823
+    deathdate: 1868
+    gutenberg_agent_id: '8629'
+    url: http://www.gutenberg.org/2009/agents/8629
+description: ''
+gutenberg_bookshelf:
+- Islam
+- Harvard Classics
+gutenberg_issued: '2006-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19786'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islam'
+- !lcc 'BP'
+- !lcsh 'Qur''an'
+- !lcsh 'Muhammad, Prophet, -632'
+title: "De Koran\r\nVoorafgegaan door het leven van Mahomed, eene inleiding\r\nomtrent\
+  \ de Godsdienstgebruiken der Mahomedanen, enz."
+url: http://www.gutenberg.org/ebooks/19786
