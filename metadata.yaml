@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '8629'
     url: http://www.gutenberg.org/2009/agents/8629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19786#De-Koran--13-omtrent-de-Godsdienstgebruiken-der-Mahomedanen-enz.
 gutenberg_bookshelf:
 - Islam
 - Harvard Classics
